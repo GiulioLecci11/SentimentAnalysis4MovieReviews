@@ -69,9 +69,3 @@ Predicted sentiment: **Positive**
 
 - ⚠️ Model performance depends on the quality and diversity of the training data.
 - ⚠️ Manual tuning may be required for non-English reviews or different text formats.
-
----
-
-#### Short Description (for GitHub)
-
-This project uses TensorFlow and Keras to build an LSTM-based sentiment analysis model for classifying IMDB reviews. It includes data preprocessing, model training, evaluation, and interactive testing with sample reviews.
