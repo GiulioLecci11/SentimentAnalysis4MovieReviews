@@ -1,7 +1,3 @@
-Ecco il README e una descrizione per il progetto del tuo secondo script in un Jupyter Notebook.
-
----
-
 ## README
 
 ### Sentiment Analysis on IMDB Reviews Using LSTM
